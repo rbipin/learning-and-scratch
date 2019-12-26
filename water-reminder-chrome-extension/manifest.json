@@ -1,0 +1,6 @@
+{
+    "name": "Water Reminder",
+    "version": "1.0",
+    "description": "Remind you to drink water every 30 minutes",
+    "manifest_version": 2
+  }

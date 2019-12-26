@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-electronjs",
+  "version": "0.1.0",
+  "description": "My First Electronjs Project that displays hello world",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbipin/hello_world_electronjs.git"
+  },
+  "author": "Bipin Radhakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbipin/hello_world_electronjs/issues"
+  },
+  "homepage": "https://github.com/rbipin/hello_world_electronjs#readme",
+  "devDependencies": {
+    "electron": "^7.1.3"
+  }
+}
