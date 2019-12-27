@@ -1,0 +1,28 @@
+{
+  "name": "digital-album-test-ui",
+  "version": "1.0.0",
+  "description": "Simple test/ scratch ui using electron js for a rapberry pi digital album",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbipin/learning-and-scratch.git"
+  },
+  "keywords": [
+    "digital",
+    "album",
+    "electron",
+    "js"
+  ],
+  "author": "Bipin Radhakrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbipin/learning-and-scratch/issues"
+  },
+  "homepage": "https://github.com/rbipin/learning-and-scratch#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
